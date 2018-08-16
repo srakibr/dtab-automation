@@ -1,6 +1,6 @@
 # dtab-automation
 
-Right your tests under /src/test/java/tests
+Write your tests under /src/test/java/tests
 
 After updating the code run :
 
